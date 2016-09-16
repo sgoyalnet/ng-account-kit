@@ -1,0 +1,24 @@
+{
+  "name": "ng-account-kit",
+  "description": "angular JS implementation of account kit.",
+  "main": "index.js",
+  "authors": [
+    "Shubham Goyal"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "facebook",
+    "account",
+    "kit",
+    "angularjs"
+  ],
+  "homepage": "https://github.com/sgoyalnet/ng-account-kit",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
