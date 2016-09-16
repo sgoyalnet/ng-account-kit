@@ -1,0 +1,31 @@
+{
+    "name": "ng-account-kit",
+    "version": "1.0.0",
+    "description": "angular JS implementation of account kit.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sgoyalnet/ng-account-kit.git"
+    },
+    "bugs": {
+        "url": "https://github.com/sgoyalnet/ng-account-kit/issues"
+    },
+    "homepage": "https://github.com/sgoyalnet/ng-account-kit#readme",
+    "keywords": [
+        "facebook",
+        "account kit",
+        "angularjs"
+    ],
+    "author": "Shubham Goyal",
+    "license": "MIT",
+    "devDependencies": {
+        "del": "^2.2.1",
+        "gulp": "^3.9.1",
+        "gulp-rename": "^1.2.2",
+        "gulp-uglify": "^2.0.0",
+        "run-sequence": "^1.2.2"
+    }
+}
